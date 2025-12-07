@@ -1,0 +1,48 @@
+
+# Python cache / build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.tmp
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Virtual environments
+venv/
+env/
+myenv/
+.venv/
+.python-version
+
+# Data folder
+data/*.csv
+data/*.png
+data/*.pdf
+data/*.svg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
